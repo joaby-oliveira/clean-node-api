@@ -3,4 +3,4 @@ function teste () {
 }
 
 teste()
-console.log('hello');
+console.log('hello')
